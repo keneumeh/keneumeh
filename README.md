@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keneumeh
-- 👀 I’m interested in frontend dev, crypto
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in software engineering, crypto
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on tech startups
 - 📫 How to reach me - here i guess
 
